@@ -1,6 +1,8 @@
 # Single Grid Component - Tailwind CSS
 
-Essa é a solução do desafio [Single price grid component] (https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc), aonde devo recriar a tela a seguir com seu modelo responsivo:
+Essa é a solução do desafio [Single price grid component] 
+(https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc), 
+aonde devo recriar a tela a seguir com seu modelo responsivo:
 
 PC:
 
