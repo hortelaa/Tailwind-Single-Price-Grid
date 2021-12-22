@@ -23,7 +23,7 @@ Tailwind <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4C
 
 # Resultado : 
 
-
+https://hortelaa.github.io/Tailwind-Single-Price-Grid/
 
 
 
