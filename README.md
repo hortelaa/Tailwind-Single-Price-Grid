@@ -1,58 +1,37 @@
-# Tailwind CSS as a PostCSS Plugin
+# Single Grid Component - Tailwind CSS
 
-A starter template for very simple projects (no frameworks) with Tailwind CSS setup as a PostCSS plugin. You only need to install NPM.
+Essa é a solução do desafio [Single price grid component] (https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc), aonde devo recriar a tela a seguir com seu modelo responsivo:
 
-Follow the Getting Started guide and build websites with Tailwind CSS. Also, follow the steps to Optimize for Production to end up with a very tiny final CSS bundle.
+PC:
 
-**OR**
+<img src="https://cdn.discordapp.com/attachments/923081570745724982/923081598570725426/desktop-design.jpg" width="50%">
 
-Watch the video:
-[![Youtube Video](https://img.youtube.com/vi/8RtNO9TjPas/maxresdefault.jpg)](https://youtu.be/8RtNO9TjPas "Starter Template for Tailwind CSS 2.0 installed as a PostCSS Plugin")
+Mobile:
 
-## Getting Started
+<img src="https://cdn.discordapp.com/attachments/923081570745724982/923081612760068096/mobile-design.jpg" width="50%">
 
-1.  Clone the repository
+# Ferramentas Utilizadas :
 
-         git clone https://github.com/ThirusOfficial/tailwind-css-starter-postcss.git {{ your project name }}
+Html5 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="15">
 
-    Alternately you can download the zip file and unzip it.
+Css <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" width="15">
 
-2.  You will now have the cloned project folder. Open the project in
-    Visual Studio Code editor (recommended code editor for Tailwind CSS
-    Projects)
+Visual Studio Code <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="15">
 
-3.  Open new terminal within Visual Studio Code
+Tailwind <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" width="18">
 
-4.  Download and install NPM - [A Beginner’s Guide to npm](https://www.sitepoint.com/npm-guide/)
 
-5.  Install dependencies
+# Resultado : 
 
-        npm install
 
-6.  Build using Tailwind CSS
 
-        npm run build
 
-7.  Open the `public > index.html` file in your browser and you should see a heading styled with a gradient. If you don't see a gradient on the text, something went wrong.
 
-## How to use
 
--   Go to `public > index.html` Remove the `<h1>` element and start adding your own HTML.
--   If you need to add more HTML pages, add them in the `public` folder.
--   To extract classes and use the `@apply` directive, edit the custom CSS file in `src > styles.css`. Add any amount of custom CSS within this file. Refer [https://tailwindcss.com/docs/installation#using-a-custom-css-file](https://tailwindcss.com/docs/installation#using-a-custom-css-file)
 
-Watch HTML files for changes and build automatically everytime using
 
-    npm run watch
 
-NOTE: Do NOT edit the file `public > dist > styles.css` directly - This is the distribution stylesheet. The CSS here is generated from `src > styles.css` using Tailwind when you build.
 
-## Optimize for production
 
-Before pushing your code (the `public` folder) for production, run the below command to reduce the size of `styles.css` within the public folder
 
-     npm run prod
 
-NOTE: If you are using Windows and face an error `NODE ENV not recognised`, run the below command
-
-     npm install win-node-env
